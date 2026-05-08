@@ -42,4 +42,4 @@ You will need to generate your own API key to use in this program
 4. Generate an API key
 5. Replace the API key in the code:
 
-API_KEY = "your_api_key_here" <- place your key here
+API_KEY = "your_api_key_here" <- place your key here(DO NOT SHARE THIS KEY WITH ANYONE FOR SECURITY PURPOSES. THIS IS TO PREVENT THE UNAUTHORIZED ACCESS OF SENSITIVE DATA)
